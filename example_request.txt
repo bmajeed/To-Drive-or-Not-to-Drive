@@ -1,0 +1,9 @@
+GET /weather/?q=Pittsburgh,USA
+
+{
+	"name": "Pittsburgh,USA",
+	"drivability_score": 90.4,
+	"weather_type": "moderate rain",
+	"icon_url": "http://openweathermap.org/img/wn/10d@2x.png",
+	"temprature": 39.2,
+	"recommendation": "Be careful of slipery roads."
